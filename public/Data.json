@@ -1,0 +1,80 @@
+    [
+        {
+        "id": 1,
+        "img": "https://via.placeholder.com/150",
+        "title": "Senior Software Engineer",
+        "job_name": "Google",
+        "job_description": "Develop and maintain web applications with a focus on scalability and performance.",
+        "job_type": "Full-time",
+        "location": "Mountain View, CA",
+        "salary": "$120,000 - $150,000",
+        "email": "jobs@google.com",
+        "phone": "(650) 253-0000",
+        "address": "1600 Amphitheatre Parkway, Mountain View, CA 94043"
+        },
+        {
+        "id": 2,
+        "img": "https://via.placeholder.com/150",
+        "title": "Product Manager",
+        "job_name": "Meta",
+        "job_description": "Lead product strategy and roadmap for innovative products.",
+        "job_type": "Full-time",
+        "location": "Menlo Park, CA",
+        "salary": "$130,000 - $160,000",
+        "email": "careers@meta.com",
+        "phone": "(650) 543-4800",
+        "address": "1 Hacker Way, Menlo Park, CA 94025"
+        },
+        {
+        "id": 3,
+        "img": "https://via.placeholder.com/150",
+        "title": "Data Scientist",
+        "job_name": "Amazon",
+        "job_description": "Analyze large datasets to derive actionable insights and improve customer experiences.",
+        "job_type": "Part-time",
+        "location": "Seattle, WA",
+        "salary": "$110,000 - $140,000",
+        "email": "jobs@amazon.com",
+        "phone": "(206) 266-1000",
+        "address": "410 Terry Ave N, Seattle, WA 98109"
+        },
+        {
+        "id": 4,
+        "img": "https://via.placeholder.com/150",
+        "title": "UX/UI Designer",
+        "job_name": "Microsoft",
+        "job_description": "Design intuitive and engaging user interfaces for applications across platforms.",
+        "job_type": "Contract",
+        "location": "Redmond, WA",
+        "salary": "$90,000 - $120,000",
+        "email": "hr@microsoft.com",
+        "phone": "(425) 882-8080",
+        "address": "1 Microsoft Way, Redmond, WA 98052"
+        },
+        {
+        "id": 5,
+        "img": "https://via.placeholder.com/150",
+        "title": "Marketing Specialist",
+        "job_name": "Tesla",
+        "job_description": "Develop and implement marketing strategies to promote Tesla's products.",
+        "job_type": "Full-time",
+        "location": "Austin, TX",
+        "salary": "$70,000 - $100,000",
+        "email": "careers@tesla.com",
+        "phone": "(512) 349-3500",
+        "address": "3500 Deer Creek Rd, Palo Alto, CA 94304"
+        },
+        {
+        "id": 6,
+        "img": "https://via.placeholder.com/150",
+        "title": "Systems Administrator",
+        "job_name": "IBM",
+        "job_description": "Maintain and support system infrastructure to ensure optimal performance.",
+        "job_type": "Full-time",
+        "location": "Armonk, NY",
+        "salary": "$85,000 - $110,000",
+        "email": "jobs@ibm.com",
+        "phone": "(914) 499-1900",
+        "address": "1 New Orchard Road, Armonk, NY 10504"
+        }
+    ]  
