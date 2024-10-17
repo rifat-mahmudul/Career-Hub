@@ -1,7 +1,7 @@
     [
         {
         "id": 1,
-        "img": "https://via.placeholder.com/150",
+        "img": "https://i.ibb.co.com/1KcVnsB/google.png",
         "title": "Senior Software Engineer",
         "job_name": "Google",
         "job_description": "Develop and maintain web applications with a focus on scalability and performance.",
@@ -14,9 +14,9 @@
         },
         {
         "id": 2,
-        "img": "https://via.placeholder.com/150",
+        "img": "https://i.ibb.co.com/c6sbYXL/netflix.png",
         "title": "Product Manager",
-        "job_name": "Meta",
+        "job_name": "Netflix",
         "job_description": "Lead product strategy and roadmap for innovative products.",
         "job_type": "Full-time",
         "location": "Menlo Park, CA",
@@ -27,7 +27,7 @@
         },
         {
         "id": 3,
-        "img": "https://via.placeholder.com/150",
+        "img": "https://i.ibb.co.com/WxqT1mc/download.png",
         "title": "Data Scientist",
         "job_name": "Amazon",
         "job_description": "Analyze large datasets to derive actionable insights and improve customer experiences.",
@@ -40,7 +40,7 @@
         },
         {
         "id": 4,
-        "img": "https://via.placeholder.com/150",
+        "img": "https://i.ibb.co.com/p3L6SPg/download-1.png",
         "title": "UX/UI Designer",
         "job_name": "Microsoft",
         "job_description": "Design intuitive and engaging user interfaces for applications across platforms.",
@@ -53,7 +53,7 @@
         },
         {
         "id": 5,
-        "img": "https://via.placeholder.com/150",
+        "img": "https://i.ibb.co.com/DtmrDxS/tesla.png",
         "title": "Marketing Specialist",
         "job_name": "Tesla",
         "job_description": "Develop and implement marketing strategies to promote Tesla's products.",
@@ -66,7 +66,7 @@
         },
         {
         "id": 6,
-        "img": "https://via.placeholder.com/150",
+        "img": "https://i.ibb.co.com/xGWB2jN/download-2.png",
         "title": "Systems Administrator",
         "job_name": "IBM",
         "job_description": "Maintain and support system infrastructure to ensure optimal performance.",
