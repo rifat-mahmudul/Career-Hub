@@ -3,7 +3,6 @@ import { CiDollar } from "react-icons/ci";
 import {  useLoaderData, useParams } from 'react-router-dom';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
-
 const ViewDetails = () => {
 
     const jobs = useLoaderData();
@@ -12,7 +11,7 @@ const ViewDetails = () => {
     const {img, title, job_name, job_type, location, salary, email, phone, address} = job;
 
     const applyNow = () =>{
-        toast("Applied Successfully")
+        toast("You have applied successfully");
     }
 
     return (
