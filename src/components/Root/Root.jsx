@@ -7,7 +7,7 @@ function Root() {
     return (
         <div>
             <Header></Header>
-            <div className="min-h-[calc(260px)]">
+            <div className="min-h-[calc(100vh-260px)]">
                 <Outlet></Outlet>
             </div>
             <Footer></Footer>

@@ -59,7 +59,7 @@
         "job_description": "Develop and implement marketing strategies to promote Tesla's products.",
         "job_type": "Full-time",
         "location": "Austin, TX",
-        "salary": "$70,000 - $100,000",
+        "salary": "$702,000 - $100,000",
         "email": "careers@tesla.com",
         "phone": "(512) 349-3500",
         "address": "3500 Deer Creek Rd, Palo Alto, CA 94304"
@@ -76,5 +76,44 @@
         "email": "jobs@ibm.com",
         "phone": "(914) 499-1900",
         "address": "1 New Orchard Road, Armonk, NY 10504"
-        }
+        },
+        {
+            "id": 7,
+            "img": "https://i.ibb.co.com/p3L6SPg/download-1.png",
+            "title": "UX/UI Designer",
+            "job_name": "Microsoft",
+            "job_description": "Design intuitive and engaging user interfaces for applications across platforms.",
+            "job_type": "Contract",
+            "location": "Redmond, WA",
+            "salary": "$90,000 - $120,000",
+            "email": "hr@microsoft.com",
+            "phone": "(425) 882-8080",
+            "address": "1 Microsoft Way, Redmond, WA 98052"
+            },
+            {
+            "id": 8,
+            "img": "https://i.ibb.co.com/DtmrDxS/tesla.png",
+            "title": "Marketing Specialist",
+            "job_name": "Tesla",
+            "job_description": "Develop and implement marketing strategies to promote Tesla's products.",
+            "job_type": "Full-time",
+            "location": "Austin, TX",
+            "salary": "$70,000 - $100,000",
+            "email": "careers@tesla.com",
+            "phone": "(512) 349-3500",
+            "address": "3500 Deer Creek Rd, Palo Alto, CA 94304"
+            },
+            {
+            "id": 9,
+            "img": "https://i.ibb.co.com/xGWB2jN/download-2.png",
+            "title": "Systems Administrator",
+            "job_name": "IBM",
+            "job_description": "Maintain and support system infrastructure to ensure optimal performance.",
+            "job_type": "Full-time",
+            "location": "Armonk, NY",
+            "salary": "$85,000 - $110,000",
+            "email": "jobs@ibm.com",
+            "phone": "(914) 499-1900",
+            "address": "1 New Orchard Road, Armonk, NY 10504"
+            }
     ]  

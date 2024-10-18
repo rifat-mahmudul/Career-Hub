@@ -10,7 +10,7 @@ function Header() {
     </>
 
     return (
-            <div className="max-w-[90%] xl:max-w-6xl mx-auto">
+            <div className="max-w-[90%] xl:max-w-6xl mx-auto sticky top-0 backdrop-blur-md z-50">
                 <div className="navbar bg-base-100">
                     <div className="navbar-start">
                         <div className="dropdown">
